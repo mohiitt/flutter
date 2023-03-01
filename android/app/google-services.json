@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "328066223705",
+    "project_id": "logpage-4401f",
+    "storage_bucket": "logpage-4401f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328066223705:android:1f7890501cc510970aab48",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328066223705-l00mpodg3njubdj2fll0l6thps25usud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-6omnzr3xZn-woPLPZkLE16XHyzo80sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328066223705-l00mpodg3njubdj2fll0l6thps25usud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328066223705-773kuvrt0e3lhvfgvt2pig4k9k6iugj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weather"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328066223705:android:03563c3dc0ce0ed00aab48",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328066223705-l00mpodg3njubdj2fll0l6thps25usud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-6omnzr3xZn-woPLPZkLE16XHyzo80sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328066223705-l00mpodg3njubdj2fll0l6thps25usud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328066223705-773kuvrt0e3lhvfgvt2pig4k9k6iugj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weather"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
